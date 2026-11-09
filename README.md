@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/1248-count-number-of-nice-subarrays) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
@@ -90,4 +91,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Simulation
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
