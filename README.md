@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -82,11 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -107,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
