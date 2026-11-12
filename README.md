@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/1248-count-number-of-nice-subarrays) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Counting
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0435-non-overlapping-intervals) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
 | ------- |
