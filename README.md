@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/1248-count-number-of-nice-subarrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
@@ -35,10 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/1248-count-number-of-nice-subarrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Math
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/1248-count-number-of-nice-subarrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Counting
 |  |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0435-non-overlapping-intervals) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
