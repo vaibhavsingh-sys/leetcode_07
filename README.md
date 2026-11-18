@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0740-delete-and-earn](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0740-delete-and-earn) |
 | [0930-binary-subarrays-with-sum](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/1248-count-number-of-nice-subarrays) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0135-candy) |
 | [0213-house-robber-ii](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0435-non-overlapping-intervals) |
+| [0740-delete-and-earn](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0740-delete-and-earn) |
 | [0930-binary-subarrays-with-sum](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/1248-count-number-of-nice-subarrays) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0509-fibonacci-number) |
+| [0740-delete-and-earn](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0740-delete-and-earn) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
