@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0057-insert-interval](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0135-candy) |
+| [0152-maximum-product-subarray](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0435-non-overlapping-intervals) |
 | [0740-delete-and-earn](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0740-delete-and-earn) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0509-fibonacci-number) |
