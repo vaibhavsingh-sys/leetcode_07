@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0139-word-break) |
 | [0740-delete-and-earn](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0740-delete-and-earn) |
 | [0930-binary-subarrays-with-sum](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0992-subarrays-with-k-different-integers) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0139-word-break) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0057-insert-interval](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0435-non-overlapping-intervals) |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0435-non-overlapping-intervals) |
@@ -136,5 +140,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0509-fibonacci-number) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
