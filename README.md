@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0057-insert-interval](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0063-unique-paths-ii) |
+| [0120-triangle](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0120-triangle) |
 | [0135-candy](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0152-maximum-product-subarray) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0063-unique-paths-ii) |
+| [0120-triangle](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0213-house-robber-ii) |
