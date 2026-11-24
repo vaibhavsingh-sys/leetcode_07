@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0139-word-break) |
+| [0474-ones-and-zeroes](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0474-ones-and-zeroes) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0740-delete-and-earn) |
 | [0930-binary-subarrays-with-sum](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0930-binary-subarrays-with-sum) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0740-delete-and-earn) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -197,4 +201,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
