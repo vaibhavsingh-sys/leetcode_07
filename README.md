@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0377-combination-sum-iv](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0377-combination-sum-iv) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0377-combination-sum-iv](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0377-combination-sum-iv) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0300-longest-increasing-subsequence) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Recursion
 |  |
@@ -202,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0474-ones-and-zeroes) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/vaibhavsingh-sys/leetcode_07/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
